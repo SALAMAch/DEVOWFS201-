@@ -3,8 +3,8 @@
 
 1. **Forker** le repository.
 2. **Cloner** votre fork localement.
-3. **Créer une branche** pour vos modifications.
-4. **Modifier** le fichier `index.html` en y ajoutant votre nom.
+3. **Créer une branche** pour vos modifications LIKE ` < prenom-nom > `.
+4. **Modifier** le fichier `index.html` <h1>Bienvenue sur le site de [votre prénom et nom]</h1>.
 5. **Commiter** et **pousser** vos changements.
 6. **Créer une Pull Request** vers la branche `main`.
 
